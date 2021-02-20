@@ -1,2 +1,2 @@
 # hello-world
-this is my first github repository
+I am an aspiring AI engineer and a tech startup owner
